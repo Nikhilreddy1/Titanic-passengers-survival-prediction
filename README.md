@@ -1,7 +1,7 @@
 # Titanic-passengers-survival-prediction
 Kaggle- Machine learning project to predict the survivors of Titanic
 
-ML algorithm used - 
+ML algorithms used - 
 1. Random forest
 2. Neural Network
 3. Decision Tree Classifier
