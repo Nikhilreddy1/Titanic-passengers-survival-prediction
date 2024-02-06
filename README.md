@@ -7,4 +7,4 @@ ML algorithms used -
 3. Decision Tree Classifier
 4. Logistic Regression
 5. AdaBoostClassifier
-
+6. 
