@@ -9,3 +9,5 @@ ML algorithms used -
 5. AdaBoostClassifier
 6. GradientBoostClassifier
 7. Linear Discriminate Analysis
+8. Naive Bayes
+9. K Nearest Neighbour
