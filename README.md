@@ -8,3 +8,4 @@ ML algorithms used -
 4. Logistic Regression
 5. AdaBoostClassifier
 6. GradientBoostClassifier
+7. Linear Discriminate Analysis
