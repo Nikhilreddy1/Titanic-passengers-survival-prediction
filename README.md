@@ -11,3 +11,4 @@ ML algorithms used -
 7. Linear Discriminate Analysis
 8. Naive Bayes
 9. K Nearest Neighbour
+10. 
