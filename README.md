@@ -12,3 +12,4 @@ ML algorithms used -
 8. Naive Bayes
 9. K Nearest Neighbour
 10. BernoulliNB
+11. Support Vector Machine
