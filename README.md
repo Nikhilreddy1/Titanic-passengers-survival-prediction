@@ -14,3 +14,4 @@ ML algorithms used -
 10. BernoulliNB
 11. Support Vector Machine
 12. Stochastic Gradient Descent Classifier
+13. 
