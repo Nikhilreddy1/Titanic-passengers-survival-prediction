@@ -14,3 +14,9 @@ ML algorithms used -
 10. BernoulliNB
 11. Support Vector Machine
 12. Stochastic Gradient Descent Classifier
+
+
+How to run-
+1. Execute the server.py file using command-
+    python server.py
+2. Now use the server details, create a json file with the key-value pair that the model requires, execute and check the prediction
